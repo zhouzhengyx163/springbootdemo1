@@ -1,0 +1,11 @@
+users:
+  id: 15
+  name: jsdhakj你好
+  age: 66
+  bf:
+    - lili
+    - ss
+    - qqq
+logging:
+  level:
+    com.leyou: debug
